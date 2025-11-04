@@ -1,4 +1,4 @@
-# 🎓 Sistem Informasi Akademik Kampus
+# Sistem Informasi Akademik Kampus
 
 <img src="img.png" alt="Tampilan Sistem Informasi Akademik" width="100%" />
 
@@ -6,16 +6,16 @@ Proyek ini merupakan bagian dari tugas pembuatan sistem database akademik kampus
 
 ---
 
-## ✨ Fitur Utama
+## Fitur Utama
 
-- 📊 Menampilkan statistik jumlah dosen, mahasiswa, jurusan, dan prodi  
-- 🧭 Halaman navigasi untuk setiap entitas (dosen, mahasiswa, prodi, jurusan, kelas)  
-- 🔗 Koneksi ke database MySQL menggunakan PHP (PDO)  
-- 🗂️ Struktur database relasional untuk data akademik kampus  
+- Menampilkan statistik jumlah dosen, mahasiswa, jurusan, dan prodi  
+- Halaman navigasi untuk setiap entitas (dosen, mahasiswa, prodi, jurusan, kelas)  
+- Koneksi ke database MySQL menggunakan PHP (PDO)  
+- Struktur database relasional untuk data akademik kampus  
 
 ---
 
-## 🗃️ Struktur Data
+## Struktur Data
 
 Database `akademik` terdiri dari tabel-tabel berikut:
 
@@ -29,23 +29,21 @@ Database `akademik` terdiri dari tabel-tabel berikut:
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
-- 💻 PHP (Plain PHP + PDO)
-- 🛢️ MySQL (MariaDB)
-- 🌐 HTML + CSS
-- 🎨 Font Awesome (untuk ikon)
-- 🔧 Git (versi kontrol)
+- PHP (Plain PHP + PDO)
+- MySQL (MariaDB)
+- HTML + CSS
+- Font Awesome (untuk ikon)
+- Git (versi kontrol)
 
 ---
 
-## 📝 Catatan
+## Catatan
 
 > Proyek ini hanya menampilkan fitur dasar sebagai representasi dari sistem informasi akademik.  
 > Fitur CRUD lengkap dapat dikembangkan lebih lanjut sesuai kebutuhan.
 
 ---
 
-## 📌 Informasi Tambahan
-
-&copy; 2025 — Tugas Mata Kuliah Basis Data  
+&copy; 2025 — Tugas Mata Kuliah Basis Data smt2
